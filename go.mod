@@ -1,4 +1,4 @@
-module github.com/XaCaMaCa/protos
+module github.com/XaCaMaCa/protose
 
 go 1.25.3
 
